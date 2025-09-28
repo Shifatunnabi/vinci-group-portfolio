@@ -1,0 +1,57 @@
+.wpo-section-title,.wpo-section-title-s2 {
+	margin-bottom: 40px;
+	text-align: left;
+
+	@include media-query(767px) {
+		margin-bottom: 30px;
+	}
+
+
+	h2 {
+		color: $theme-primary-color-s2;
+		font-size: 22px;
+		font-weight: 600;
+		text-transform: capitalize;
+
+		@include media-query(767px) {
+			font-size: 20px;
+		}
+
+		@include media-query(330px) {
+			font-size: 18px;
+		}
+
+	}
+
+	h3 {
+		color: $heading-color;
+		font-size: 50px;
+		font-weight: 700;
+		line-height: 75px;
+		text-transform: capitalize;
+
+		@include media-query(767px) {
+			font-size: 32px;
+			line-height: 40px;
+		}
+
+		@include media-query(330px) {
+			font-size: 30px;
+		}
+
+	}
+
+	p {
+		font-size: 18px;
+	}
+
+}
+
+
+.wpo-section-title-s2{
+	text-align: center;
+
+	h2 {
+		color: $theme-primary-color;
+	}
+}
