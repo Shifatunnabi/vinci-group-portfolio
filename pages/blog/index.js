@@ -6,13 +6,11 @@ import Navbar from '../../components/Navbar/Navbar';
 import Footer from '../../components/footer/Footer';
 import Scrollbar from '../../components/scrollbar/scrollbar';
 
-import logo from '/public/images/logo-3.svg';
-
 const BlogPage =() => {
     return(
         <Fragment>
             <HeaderTopbar />
-            <Navbar hclass={'wpo-site-header wpo-site-header-s3'} Logo={logo} />
+            <Navbar hclass={'wpo-site-header wpo-site-header-s3'} Logo={'/images/logo-3.svg'} />
             <PageTitle pageTitle={'Latest News'} pagesub={'Blog'}/> 
             <BlogList/>
             <Footer/>

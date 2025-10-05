@@ -1,11 +1,11 @@
 // images
-import blogImg1 from "/public/images/blog/img-1.jpg";
-import blogImg2 from "/public/images/blog/img-2.jpg";
-import blogImg3 from "/public/images/blog/img-3.jpg";
+const blogImg1 = "/images/blog/img-1.jpg";
+const blogImg2 = "/images/blog/img-2.jpg";
+const blogImg3 = "/images/blog/img-3.jpg";
 
-import blogSingleImg1 from "/public/images/blog-details/1.jpg";
-import blogSingleImg2 from "/public/images/blog-details/2.jpg";
-import blogSingleImg3 from "/public/images/blog-details/3.jpg";
+const blogSingleImg1 = "/images/blog-details/1.jpg";
+const blogSingleImg2 = "/images/blog-details/2.jpg";
+const blogSingleImg3 = "/images/blog-details/3.jpg";
 
 
 

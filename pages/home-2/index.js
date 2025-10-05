@@ -9,12 +9,11 @@ import Testimonial from '../../components/Testimonial/Testimonial';
 import BlogSection from '../../components/BlogSection/BlogSection';
 import Footer from '../../components/footer/Footer';
 import Scrollbar from '../../components/scrollbar/scrollbar';
-import Logo from '/public/images/logo-3.svg'
 
 const HomePage2 = () => {
     return (
         <Fragment>
-            <Navbar hclass={'wpo-site-header wpo-site-header-s2'} Logo={Logo} />
+            <Navbar hclass={'wpo-site-header wpo-site-header-s2'} Logo={'/images/logo-3.svg'} />
             <Hero2 />
             <About2 hclass={'wpo-about-section-s2 section-padding'} />
             <ServiceSection2 hclass={'wpo-service-section-s2 section-padding'} />

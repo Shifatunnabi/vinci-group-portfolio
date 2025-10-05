@@ -1,15 +1,12 @@
-import timg1 from '/public/images/team/img-1.jpg'
-import timg2 from '/public/images/team/img-2.jpg'
-import timg3 from '/public/images/team/img-3.jpg'
-import timg4 from '/public/images/team/img-4.jpg'
+const timg1 = '/images/team/img-1.jpg'
+const timg2 = '/images/team/img-2.jpg'
+const timg3 = '/images/team/img-3.jpg'
+const timg4 = '/images/team/img-4.jpg'
 
-
-
-
-import Stime1 from '/public/images/team/s1.jpg'
-import Stime2 from '/public/images/team/s2.jpg'
-import Stime3 from '/public/images/team/s3.jpg'
-import Stime4 from '/public/images/team/s4.jpg'
+const Stime1 = '/images/team/s1.jpg'
+const Stime2 = '/images/team/s2.jpg'
+const Stime3 = '/images/team/s3.jpg'
+const Stime4 = '/images/team/s4.jpg'
 
 
 

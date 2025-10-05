@@ -1,15 +1,14 @@
-import pimg1 from '/public/images/project/1.jpg';
-import pimg2 from '/public/images/project/2.jpg';
-import pimg3 from '/public/images/project/3.jpg';
-import pimg4 from '/public/images/project/4.jpg';
-import pimg5 from '/public/images/project/1.jpg';
+const pimg1 = '/images/project/1.jpg';
+const pimg2 = '/images/project/2.jpg';
+const pimg3 = '/images/project/3.jpg';
+const pimg4 = '/images/project/4.jpg';
+const pimg5 = '/images/project/1.jpg';
 
-
-import p2img1 from '/public/images/project-single/img-1.jpg'
-import p2img2 from '/public/images/project-single/img-2.jpg'
-import p2img3 from '/public/images/project-single/img-3.jpg'
-import p2img4 from '/public/images/project-single/img-4.jpg'
-import p2img5 from '/public/images/project-single/img-1.jpg'
+const p2img1 = '/images/project-single/img-1.jpg'
+const p2img2 = '/images/project-single/img-2.jpg'
+const p2img3 = '/images/project-single/img-3.jpg'
+const p2img4 = '/images/project-single/img-4.jpg'
+const p2img5 = '/images/project-single/img-1.jpg'
 
 
 

@@ -1,21 +1,20 @@
-// images
-import img1 from '/public/images/service/1.jpg'
-import img2 from '/public/images/service/2.jpg'
-import img3 from '/public/images/service/3.jpg'
-import img4 from '/public/images/service/4.jpg'
-
+// images - using string paths for Next.js 15
+const img1 = '/images/service/1.jpg'
+const img2 = '/images/service/2.jpg'
+const img3 = '/images/service/3.jpg'
+const img4 = '/images/service/4.jpg'
 
 /* Single image */
-import simg1 from '/public/images/service-single/img-1.jpg'
-import simg2 from '/public/images/service-single/img-2.jpg'
-import simg3 from '/public/images/service-single/img-3.jpg'
-import simg4 from '/public/images/service-single/img-4.jpg'
+const simg1 = '/images/service-single/img-1.jpg'
+const simg2 = '/images/service-single/img-2.jpg'
+const simg3 = '/images/service-single/img-3.jpg'
+const simg4 = '/images/service-single/img-4.jpg'
 
 /* icon image */
-import icon1 from '/public/images/service/icon-1.svg'
-import icon2 from '/public/images/service/icon-2.svg'
-import icon3 from '/public/images/service/icon-3.svg'
-import icon4 from '/public/images/service/icon-4.svg'
+const icon1 = '/images/service/icon-1.svg'
+const icon2 = '/images/service/icon-2.svg'
+const icon3 = '/images/service/icon-3.svg'
+const icon4 = '/images/service/icon-4.svg'
 
 
 const Services = [
